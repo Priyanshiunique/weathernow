@@ -5,7 +5,8 @@ A modern weather app built with **React**, styled using **Material UI (MUI)**, a
 
 ## 📽 Demo Video
 🌤️ 🌧️
-[![Watch the demo](.\src\assets\cover_pic.png)](https://www.linkedin.com/posts/priyanshi-sahu-3a7544281_webdevelopment-reactjs-materialui-activity-7376970252158423040-6C4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESZ7S8BImojSrqrY7ikQHo1ij8eKy7L6Tw)
+[![Watch the demo]![Cover Image](./src/assets/cover_pic.png)
+](https://www.linkedin.com/posts/priyanshi-sahu-3a7544281_webdevelopment-reactjs-materialui-activity-7376970252158423040-6C4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESZ7S8BImojSrqrY7ikQHo1ij8eKy7L6Tw)
 
 
 ## 🚀 Features
